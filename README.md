@@ -1,4 +1,4 @@
-# AI Lab - Image Generation Test
+# 🧪 AI Lab - Image Generation Test
 
 This project demonstrates how to use the OpenAI API to generate images from text prompts using Node.js. The script generates an image based on a prompt suitable for a children's book and saves the result as a PNG file.
 
