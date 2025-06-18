@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the OpenAI API to generate images from text prompts using Node.js. The script generates an image based on a prompt suitable for a children's book and saves the result as a PNG file.
 
+[OpenAI Image Generation Docs](https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1)
+
 ## Features
 
 - Uses the OpenAI API to generate images from text prompts.
